@@ -1,0 +1,43 @@
+{
+    "name": "Bubble Universe",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#0000FF",
+        "#0080C0",
+        "#00FF80",
+        "#4000E0",
+        "#4080A0",
+        "#40FF60",
+        "#8000C0",
+        "#808080",
+        "#80FF40",
+        "#C000A0",
+        "#C08060",
+        "#C0FF20",
+        "#FF0080",
+        "#FF8040",
+        "#FFFF00"
+    ]
+}
