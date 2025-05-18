@@ -44,7 +44,7 @@ colInc = 3 / iterations
 xMid = scene.screenWidth() / 2
 yMid = scene.screenHeight() / 2
 size = scene.screenHeight() / 4
-forever(function () {
+game.onUpdate(function () {
     animTime = game.runtime() / 10000
     Render()
 })
