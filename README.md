@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://movievertigo.github.io/makecodearcade-bubbleuniverse/](https://movievertigo.github.io/makecodearcade-bubbleuniverse/)
+> Open this page at [https://movievertigo.github.io/MakeCodeArcade-BubbleUniverse/](https://movievertigo.github.io/MakeCodeArcade-BubbleUniverse/)
 
 ## Use as Extension
 
