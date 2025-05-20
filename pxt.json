@@ -1,6 +1,6 @@
 {
     "name": "Bubble Universe",
-    "description": "",
+    "description": "by Movie Vertigo https://youtube.com/movievertigo A/B:Zoom DPad:Pan",
     "dependencies": {
         "device": "*"
     },
